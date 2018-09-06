@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/oriental.png");
+}
+
+#header {
+    background-color: orange;
+    color: white;
+    margin: 20px 20px 0px 0px;
+    width: 40%;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+#gamedescription {
+    background-color: bisque;
+    margin: 20px 20px 20px 0px;
+}
+
+#currentnumber {
+    background-color: rgb(131, 218, 247);
+    height: 100px;
+}
+
+#winslosses {
+    background-color: rgb(131, 218, 247);
+    height: 100px;
+    padding-left: 30px;
+}
+
+.crystal {
+    width: 50px;
+    height: auto;
+    margin: 20px 0px 20px 0px;
+}
+
+#totalscore {
+    background-color: forestgreen;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#scoredisplay {
+    background-color: forestgreen;
+    color: white;
+    height: 100px;
+}
